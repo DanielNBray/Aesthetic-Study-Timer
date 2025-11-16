@@ -2,6 +2,9 @@
 
 A modern, responsive study timer application built with vanilla HTML, CSS, and JavaScript. Features subject tracking, analytics dashboard, and customizable study goals with local data persistence.
 
+![Study Timer Screenshot](readme%20photos/Screenshot%20of%20timer.png)
+
+
 ## Features
 
 - **Timer Functionality**: Start/pause/reset with customizable work sessions
@@ -84,4 +87,5 @@ Replace `notification-sound.mp3` with your preferred audio file. The sound plays
 Email: daniel.bray@connect.qut.edu.au  
 Phone: 0492426521  
 LinkedIn: https://www.linkedin.com/in/daniel-nerome-bray/
+
 
